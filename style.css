@@ -101,7 +101,7 @@ footer {
 
 /* ===== Profile Picture in Header ===== */
 .profile-pic {
-  width: 50px;          /* 头像宽度，可根据需要调整 */
+  width: 55px;          /* 头像宽度，可根据需要调整 */
   height: 75px;         /* 头像高度 */
   border-radius: 50%;   /* 圆形头像 */
   vertical-align: middle; /* 与名字垂直居中对齐 */
@@ -114,5 +114,6 @@ footer {
   transform: translateY(-2px);
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
 }
+
 
 
